@@ -1,6 +1,6 @@
 # exam-website
 
-screenshots : 
+Screenshots : 
 
 Trang chủ
 
