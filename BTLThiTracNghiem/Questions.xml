@@ -1,0 +1,674 @@
+<?xml version="1.0"?>
+<ArrayOfQuestion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Question>
+    <Id>5</Id>
+    <Id_DeThi>0</Id_DeThi>
+    <CauHoi>Tìm m để hàm số y=x33−2mx2+4mx+2 nghịch biến trên khoảng (−2;0).</CauHoi>
+    <Url_img />
+    <DapAn_A>m⩽−2 hoặc m⩾1</DapAn_A>
+    <DapAn_B>2323</DapAn_B>
+    <DapAn_C>m⩽−2 hoặc m⩾1</DapAn_C>
+    <DapAn_D> f(1)=5      </DapAn_D>
+    <DapAn>A</DapAn>
+  </Question>
+  <Question>
+    <Id>6</Id>
+    <Id_DeThi>0</Id_DeThi>
+    <CauHoi> Cho hàm số y=f(x) có đạo hàm trên (a;b). Nếu f′(x) đổi dấu từ âm sang dương qua điểm x0 thuộc (a;b) th</CauHoi>
+    <Url_img />
+    <DapAn_A>m⩽−2 hoặc m⩾1</DapAn_A>
+    <DapAn_B>2323</DapAn_B>
+    <DapAn_C>3232</DapAn_C>
+    <DapAn_D>m⩽−2 hoặc m⩾1</DapAn_D>
+    <DapAn>B</DapAn>
+  </Question>
+  <Question>
+    <Id>8</Id>
+    <Id_DeThi>0</Id_DeThi>
+    <CauHoi>Hàm số nào dưới đây không có cực trị?</CauHoi>
+    <Url_img />
+    <DapAn_A>m⩽−2 hoặc m⩾1</DapAn_A>
+    <DapAn_B>23232</DapAn_B>
+    <DapAn_C> x0 là điểm cực đại của hàm số.</DapAn_C>
+    <DapAn_D> x0 là điểm cực đại của hàm số.</DapAn_D>
+    <DapAn>B</DapAn>
+  </Question>
+  <Question>
+    <Id>9</Id>
+    <Id_DeThi>0</Id_DeThi>
+    <CauHoi>Tìm tất cả các giá trị của tham số m để hàm số y=x3−2mx2+m2x+2 đạt cực tiểu tại x=1.</CauHoi>
+    <Url_img />
+    <DapAn_A>m⩽−2 hoặc m⩾1</DapAn_A>
+    <DapAn_B> x0 là điểm cực đại của hàm số.</DapAn_B>
+    <DapAn_C>3232</DapAn_C>
+    <DapAn_D> y=sinx−3x</DapAn_D>
+    <DapAn>D</DapAn>
+  </Question>
+  <Question>
+    <Id>10</Id>
+    <Id_DeThi>0</Id_DeThi>
+    <CauHoi>Giá trị lớn nhất và giá trị nhỏ nhất của hàm số y=sinx trên đoạn [−π2;−π3] lần lượt là</CauHoi>
+    <Url_img />
+    <DapAn_A> −3–√2;−2</DapAn_A>
+    <DapAn_B>m⩽−2 hoặc m⩾1</DapAn_B>
+    <DapAn_C>23232</DapAn_C>
+    <DapAn_D> f(1)=5      </DapAn_D>
+    <DapAn>A</DapAn>
+  </Question>
+  <Question>
+    <Id>11</Id>
+    <Id_DeThi>0</Id_DeThi>
+    <CauHoi>Cho hàm số y=f(x) xác định và có đạo hàm trên R. Chọn kết luận đúng:</CauHoi>
+    <Url_img />
+    <DapAn_A>m⩽−2 hoặc m⩾1</DapAn_A>
+    <DapAn_B>2323</DapAn_B>
+    <DapAn_C> x0 là điểm cực đại của hàm số.</DapAn_C>
+    <DapAn_D> x0 là điểm cực đại của hàm số.</DapAn_D>
+    <DapAn>B</DapAn>
+  </Question>
+  <Question>
+    <Id>12</Id>
+    <Id_DeThi>0</Id_DeThi>
+    <CauHoi>Cho hàm số y=f(x) xác định trên R∖{−1;1}, liên tục trên mỗi khoảng xác định và có bảng biến thiên sau:</CauHoi>
+    <Url_img />
+    <DapAn_A>m⩽−2 hoặc m⩾1</DapAn_A>
+    <DapAn_B>m⩽−2 hoặc m⩾1</DapAn_B>
+    <DapAn_C>23232</DapAn_C>
+    <DapAn_D> y=sinx−3x</DapAn_D>
+    <DapAn>C</DapAn>
+  </Question>
+  <Question>
+    <Id>13</Id>
+    <Id_DeThi>0</Id_DeThi>
+    <CauHoi>Các đồ thị hàm số y=x4−2x2+2 và y=−x2+4 có tất cả bao nhiêu điểm chung?</CauHoi>
+    <Url_img />
+    <DapAn_A>m⩽−2 hoặc m⩾1</DapAn_A>
+    <DapAn_B>2323</DapAn_B>
+    <DapAn_C> x0 là điểm cực đại của hàm số.</DapAn_C>
+    <DapAn_D> x0 là điểm cực đại của hàm số.</DapAn_D>
+    <DapAn>C</DapAn>
+  </Question>
+  <Question>
+    <Id>15</Id>
+    <Id_DeThi>1</Id_DeThi>
+    <CauHoi>Cho số phức z thỏa mãn (2−i)z=7−i . Hỏi điểm biểu diễn của z là điểm nào trong các điểm M,N,P,Q ở hình</CauHoi>
+    <Url_img />
+    <DapAn_A> Điểm N </DapAn_A>
+    <DapAn_B> Điểm Q</DapAn_B>
+    <DapAn_C>m⩽−2 hoặc m⩾1</DapAn_C>
+    <DapAn_D> x0 là điểm cực đại của hàm số.</DapAn_D>
+    <DapAn>A</DapAn>
+  </Question>
+  <Question>
+    <Id>16</Id>
+    <Id_DeThi>1</Id_DeThi>
+    <CauHoi>Cho z1,z2 là hai nghiệm của phương trình z2+2iz+i=0. Chọn mệnh đề đúng:</CauHoi>
+    <Url_img />
+    <DapAn_A>z1+z2=−2i</DapAn_A>
+    <DapAn_B>z1+z2=−2</DapAn_B>
+    <DapAn_C>23232</DapAn_C>
+    <DapAn_D>232</DapAn_D>
+    <DapAn>A</DapAn>
+  </Question>
+  <Question>
+    <Id>17</Id>
+    <Id_DeThi>1</Id_DeThi>
+    <CauHoi>Cho số phức z=2+5i. Tìm số phức w=iz+z</CauHoi>
+    <Url_img />
+    <DapAn_A>w=−7−7i</DapAn_A>
+    <DapAn_B>m⩽−2 hoặc m⩾1</DapAn_B>
+    <DapAn_C>23232</DapAn_C>
+    <DapAn_D> y=sinx−3x</DapAn_D>
+    <DapAn>A</DapAn>
+  </Question>
+  <Question>
+    <Id>18</Id>
+    <Id_DeThi>1</Id_DeThi>
+    <CauHoi>Cho phương trình z2−2z+2=0 . Mệnh đề nào sau đây là sai?</CauHoi>
+    <Url_img />
+    <DapAn_A> Phương trình đã cho không có nghiệm thực</DapAn_A>
+    <DapAn_B>m⩽−2 hoặc m⩾1</DapAn_B>
+    <DapAn_C>3232</DapAn_C>
+    <DapAn_D> f(1)=5      </DapAn_D>
+    <DapAn>A</DapAn>
+  </Question>
+  <Question>
+    <Id>19</Id>
+    <Id_DeThi>1</Id_DeThi>
+    <CauHoi>Cho số phức z=1+3–√i. Khi đó</CauHoi>
+    <Url_img />
+    <DapAn_A> 1z=14−3–√4i.</DapAn_A>
+    <DapAn_B>2323</DapAn_B>
+    <DapAn_C>m⩽−2 hoặc m⩾1</DapAn_C>
+    <DapAn_D> x0 là điểm cực đại của hàm số.</DapAn_D>
+    <DapAn>A</DapAn>
+  </Question>
+  <Question>
+    <Id>20</Id>
+    <Id_DeThi>2</Id_DeThi>
+    <CauHoi>Pha của dao động được dùng để xác định</CauHoi>
+    <Url_img />
+    <DapAn_A> Biên độ dao động</DapAn_A>
+    <DapAn_B> Trạng thái dao động</DapAn_B>
+    <DapAn_C>23232</DapAn_C>
+    <DapAn_D> y=sinx−3x</DapAn_D>
+    <DapAn>A</DapAn>
+  </Question>
+  <Question>
+    <Id>21</Id>
+    <Id_DeThi>2</Id_DeThi>
+    <CauHoi> Khi xảy ra hiện tượng cộng hưởng cơ thì vật tiếp tục dao động:</CauHoi>
+    <Url_img />
+    <DapAn_A> Với tần số nhỏ hơn tần số dao động riêng</DapAn_A>
+    <DapAn_B> Mà không chịu ngoại lực tác dụng</DapAn_B>
+    <DapAn_C>Với tần số bằng tần số dao động riêng</DapAn_C>
+    <DapAn_D>Với tần số lớn hơn tần số dao động riêng</DapAn_D>
+    <DapAn>B</DapAn>
+  </Question>
+  <Question>
+    <Id>22</Id>
+    <Id_DeThi>2</Id_DeThi>
+    <CauHoi>Khi nói về dao động điều hoà của một vật, phát biểu nào sau đây đúng?</CauHoi>
+    <Url_img />
+    <DapAn_A> Chuyển động của vật từ vị trí cân bằng ra vị trí biên là chuyển động nhanh dần</DapAn_A>
+    <DapAn_B>Gia tốc luôn hướng về vị trí biên</DapAn_B>
+    <DapAn_C>m⩽−2 hoặc m⩾1</DapAn_C>
+    <DapAn_D> x0 là điểm cực đại của hàm số.</DapAn_D>
+    <DapAn>B</DapAn>
+  </Question>
+  <Question>
+    <Id>23</Id>
+    <Id_DeThi>2</Id_DeThi>
+    <CauHoi>Tại một nơi xác định, chu kì dao động điều hòa của con lắc đơn tỉ lệ nghịch với:</CauHoi>
+    <Url_img />
+    <DapAn_A>Gia tốc trọng trường</DapAn_A>
+    <DapAn_B> Căn bậc hai chiều dài con lắc</DapAn_B>
+    <DapAn_C>m⩽−2 hoặc m⩾1</DapAn_C>
+    <DapAn_D>Với tần số lớn hơn tần số dao động riêng</DapAn_D>
+    <DapAn>A</DapAn>
+  </Question>
+  <Question>
+    <Id>24</Id>
+    <Id_DeThi>2</Id_DeThi>
+    <CauHoi>Một chất điểm dao động điều hòa với phương trình x=Acos(ωt+φ). Biểu thức vận tốc tức thời của chất điểm là:</CauHoi>
+    <Url_img />
+    <DapAn_A>v=−ωAcos(ωt+φ+π2)</DapAn_A>
+    <DapAn_B>2323</DapAn_B>
+    <DapAn_C>m⩽−2 hoặc m⩾1</DapAn_C>
+    <DapAn_D>Với tần số lớn hơn tần số dao động riêng</DapAn_D>
+    <DapAn>A</DapAn>
+  </Question>
+  <Question>
+    <Id>25</Id>
+    <Id_DeThi>2</Id_DeThi>
+    <CauHoi> Một con lắc đơn dao động với phương trình s=2cos(2πt)cm (t tính bằng giây). Tần số dao động của con lắc là:</CauHoi>
+    <Url_img />
+    <DapAn_A>1 Hz</DapAn_A>
+    <DapAn_B> 2πHz</DapAn_B>
+    <DapAn_C>23232</DapAn_C>
+    <DapAn_D> f(1)=5      </DapAn_D>
+    <DapAn>B</DapAn>
+  </Question>
+  <Question>
+    <Id>26</Id>
+    <Id_DeThi>2</Id_DeThi>
+    <CauHoi>Phát biểu nào sau đây sai khi nói về chuyển động của con lắc lò xo:</CauHoi>
+    <Url_img />
+    <DapAn_A>Chuyển động của vật là chuyển động thẳng.</DapAn_A>
+    <DapAn_B> Chuyển động của vật là dao động điều hòa.</DapAn_B>
+    <DapAn_C> x0 là điểm cực đại của hàm số.</DapAn_C>
+    <DapAn_D> y=sinx−3x</DapAn_D>
+    <DapAn>B</DapAn>
+  </Question>
+  <Question>
+    <Id>27</Id>
+    <Id_DeThi>2</Id_DeThi>
+    <CauHoi>Một vật dao động điều hoà theo phương trình x=−5cos(5πt−7π/6)cm. Biên độ dao động và pha ban đầu </CauHoi>
+    <Url_img />
+    <DapAn_A> T/4</DapAn_A>
+    <DapAn_B>T/6</DapAn_B>
+    <DapAn_C>23232</DapAn_C>
+    <DapAn_D>232</DapAn_D>
+    <DapAn>D</DapAn>
+  </Question>
+  <Question>
+    <Id>28</Id>
+    <Id_DeThi>2</Id_DeThi>
+    <CauHoi>Phát biểu nào sau đây là đúng?</CauHoi>
+    <Url_img />
+    <DapAn_A>232</DapAn_A>
+    <DapAn_B>2323</DapAn_B>
+    <DapAn_C> x0 là điểm cực đại của hàm số.</DapAn_C>
+    <DapAn_D> Động năng và thế năng của con lắc lò xo dao động điều hòa là không đổi</DapAn_D>
+    <DapAn>D</DapAn>
+  </Question>
+  <Question>
+    <Id>29</Id>
+    <Id_DeThi>2</Id_DeThi>
+    <CauHoi>Khi xảy ra hiện tượng cộng hưởng thì:</CauHoi>
+    <Url_img />
+    <DapAn_A>Ngoại lực thôi không tác dụng lên vật.</DapAn_A>
+    <DapAn_B> Năng lượng dao động của vật đạt giá trị lớn nhất.</DapAn_B>
+    <DapAn_C>Vật dao động với tần số nhỏ hơn tần số dao động riêng.</DapAn_C>
+    <DapAn_D>Với tần số lớn hơn tần số dao động riêng</DapAn_D>
+    <DapAn>A</DapAn>
+  </Question>
+  <Question>
+    <Id>30</Id>
+    <Id_DeThi>2</Id_DeThi>
+    <CauHoi>Một chất điểm dao động điều hòa theo phương trình  x=4cos(4πt+π2)cm. </CauHoi>
+    <Url_img />
+    <DapAn_A>0(rad)</DapAn_A>
+    <DapAn_B> −π2(rad)</DapAn_B>
+    <DapAn_C>23232</DapAn_C>
+    <DapAn_D> f(1)=5      </DapAn_D>
+    <DapAn>B</DapAn>
+  </Question>
+  <Question>
+    <Id>31</Id>
+    <Id_DeThi>2</Id_DeThi>
+    <CauHoi>Biên độ dao động:</CauHoi>
+    <Url_img />
+    <DapAn_A>Là quãng đường vật đi trong một chu kỳ dao động</DapAn_A>
+    <DapAn_B> Là độ dài quỹ đạo chuyển động của vật</DapAn_B>
+    <DapAn_C> x0 là điểm cực đại của hàm số.</DapAn_C>
+    <DapAn_D>232</DapAn_D>
+    <DapAn>A</DapAn>
+  </Question>
+  <Question>
+    <Id>32</Id>
+    <Id_DeThi>2</Id_DeThi>
+    <CauHoi>Một vật dao động điều hoà theo phương trình x=2cos(5πt+7π3)cm. Biên độ dao động của vật là:</CauHoi>
+    <Url_img />
+    <DapAn_A> A=1cm </DapAn_A>
+    <DapAn_B> A=1mm</DapAn_B>
+    <DapAn_C>23232</DapAn_C>
+    <DapAn_D> x0 là điểm cực đại của hàm số.</DapAn_D>
+    <DapAn>B</DapAn>
+  </Question>
+  <Question>
+    <Id>33</Id>
+    <Id_DeThi>2</Id_DeThi>
+    <CauHoi>Biểu thức nào sau đây là sai khi xác định cơ năng của con lắc lò xo?</CauHoi>
+    <Url_img />
+    <DapAn_A>232</DapAn_A>
+    <DapAn_B> W=Wt=Wd</DapAn_B>
+    <DapAn_C>23232</DapAn_C>
+    <DapAn_D> W=1/2kA2</DapAn_D>
+    <DapAn>D</DapAn>
+  </Question>
+  <Question>
+    <Id>34</Id>
+    <Id_DeThi>2</Id_DeThi>
+    <CauHoi>Trong dao động điều hoà</CauHoi>
+    <Url_img />
+    <DapAn_A> Gia tốc biến đổi điều hoà ngược pha so với vận tốc</DapAn_A>
+    <DapAn_B> Gia tốc biến đổi điều hoà sớm pha π/2 so với vận tốc</DapAn_B>
+    <DapAn_C>Gia tốc biến đổi điều hoà cùng pha so với vận tốc</DapAn_C>
+    <DapAn_D> Gia tốc biến đổi điều hoà sớm pha π/2 </DapAn_D>
+    <DapAn>D</DapAn>
+  </Question>
+  <Question>
+    <Id>35</Id>
+    <Id_DeThi>2</Id_DeThi>
+    <CauHoi> Một con lắc lò xo gồm vật nhỏ khối lượng m và lò xo có độ cứng k đang dao động điều hòa với biên độ A.Tốc độ </CauHoi>
+    <Url_img />
+    <DapAn_A>Am/k</DapAn_A>
+    <DapAn_B>2323</DapAn_B>
+    <DapAn_C> f(1)=5      </DapAn_C>
+    <DapAn_D> f(1)=5      </DapAn_D>
+    <DapAn>A</DapAn>
+  </Question>
+  <Question>
+    <Id>36</Id>
+    <Id_DeThi>2</Id_DeThi>
+    <CauHoi>Một vật dao động điều hoà có đồ thị như hình vẽ. Phương trình dao động của vật là:</CauHoi>
+    <Url_img>Images/cauhoi3.jfif</Url_img>
+    <DapAn_A> x=6cos(π3t−π3)cm</DapAn_A>
+    <DapAn_B>x=6cos(π3t+π6)cm</DapAn_B>
+    <DapAn_C>23232</DapAn_C>
+    <DapAn_D> y=sinx−3x</DapAn_D>
+    <DapAn>B</DapAn>
+  </Question>
+  <Question>
+    <Id>37</Id>
+    <Id_DeThi>2</Id_DeThi>
+    <CauHoi>Con lắc lò xo gồm vật m và lò xo k=100N/m, dao động điều hòa với tần số 3,18Hz. Khối lượng vật nặng là:</CauHoi>
+    <Url_img />
+    <DapAn_A>0,2kg</DapAn_A>
+    <DapAn_B>2323g</DapAn_B>
+    <DapAn_C>100g</DapAn_C>
+    <DapAn_D>232kg</DapAn_D>
+    <DapAn>B</DapAn>
+  </Question>
+  <Question>
+    <Id>38</Id>
+    <Id_DeThi>2</Id_DeThi>
+    <CauHoi>Một vật dao động điều hòa theo phương trình x=5cos(πt)cm. Gia tốc cực đại của vật bằng:</CauHoi>
+    <Url_img />
+    <DapAn_A> 5cm/s2</DapAn_A>
+    <DapAn_B>2323cm/s2</DapAn_B>
+    <DapAn_C>23232</DapAn_C>
+    <DapAn_D>Với tần số lớn hơn tần số dao động riêng</DapAn_D>
+    <DapAn>A</DapAn>
+  </Question>
+  <Question>
+    <Id>39</Id>
+    <Id_DeThi>2</Id_DeThi>
+    <CauHoi>Một vật dao động điều hòa theo phương trình x=Acos(ωt+φ) (ω&gt;0). Tần số góc của dao động là:</CauHoi>
+    <Url_img />
+    <DapAn_A> ω</DapAn_A>
+    <DapAn_B>23232</DapAn_B>
+    <DapAn_C> φ</DapAn_C>
+    <DapAn_D> x0 là điểm cực đại của hàm số.</DapAn_D>
+    <DapAn>C</DapAn>
+  </Question>
+  <Question>
+    <Id>42</Id>
+    <Id_DeThi>3</Id_DeThi>
+    <CauHoi>3-2=?</CauHoi>
+    <Url_img />
+    <DapAn_A>0</DapAn_A>
+    <DapAn_B>1</DapAn_B>
+    <DapAn_C>2</DapAn_C>
+    <DapAn_D>3</DapAn_D>
+    <DapAn>B</DapAn>
+  </Question>
+  <Question>
+    <Id>43</Id>
+    <Id_DeThi>3</Id_DeThi>
+    <CauHoi>1+9=?</CauHoi>
+    <Url_img />
+    <DapAn_A>10</DapAn_A>
+    <DapAn_B>11</DapAn_B>
+    <DapAn_C>12</DapAn_C>
+    <DapAn_D>13</DapAn_D>
+    <DapAn>A</DapAn>
+  </Question>
+  <Question>
+    <Id>45</Id>
+    <Id_DeThi>4</Id_DeThi>
+    <CauHoi>Nội dung nào sau đây không phản ánh đúng tác động của cuộc khai thác thuộc địa lần thứ hai (1919 – 1929) của thực dân Pháp đến nền kinh tế Việt Nam?</CauHoi>
+    <Url_img />
+    <DapAn_A>Cơ cấu kinh tế phát triển mất cân đối</DapAn_A>
+    <DapAn_B>Kinh tế có sự chuyển biến ít nhiều nhưng chỉ mang tính cục bộ</DapAn_B>
+    <DapAn_C>Kinh tế Việt Nam ngày càng cột chặt vào kinh tế Pháp</DapAn_C>
+    <DapAn_D>Cơ cấu kinh tế phát triển mất cân đối</DapAn_D>
+    <DapAn>A</DapAn>
+  </Question>
+  <Question>
+    <Id>46</Id>
+    <Id_DeThi>4</Id_DeThi>
+    <CauHoi>Đâu không phải là mục tiêu của chiến dịch Biên giới thu - đông năm 1950 do Đảng và Chính phủ Việt Nam đề ra?</CauHoi>
+    <Url_img />
+    <DapAn_A>Tiêu diệt một bộ phận quan trọng sinh lực địch  </DapAn_A>
+    <DapAn_B>Củng cố và mở rộng căn cứ địa Việt Bắc</DapAn_B>
+    <DapAn_C>Khai thông đường sang Trung Quốc và thế giới  </DapAn_C>
+    <DapAn_D>Làm phá sản âm mưu “dùng người Việt đánh người Việt”</DapAn_D>
+    <DapAn>D</DapAn>
+  </Question>
+  <Question>
+    <Id>47</Id>
+    <Id_DeThi>4</Id_DeThi>
+    <CauHoi>Những chủ trương được đề ra tại hội nghị Ban chấp hành Trung ương Đảng Cộng sản Đông Dương tháng 11-1939</CauHoi>
+    <Url_img />
+    <DapAn_A>Hội nghị tháng 11-1940  </DapAn_A>
+    <DapAn_B>Hội nghị tháng 5-1941  </DapAn_B>
+    <DapAn_C>Hội nghị tháng 3-1945</DapAn_C>
+    <DapAn_D>Hội nghị tháng 2- 1943  </DapAn_D>
+    <DapAn>C</DapAn>
+  </Question>
+  <Question>
+    <Id>48</Id>
+    <Id_DeThi>4</Id_DeThi>
+    <CauHoi>Tổ chức cộng sản nào không tham dự hội nghị hợp nhất các tổ chức cộng sản ở Cửu Long (Trung Quốc) đầu năm 1930?</CauHoi>
+    <Url_img />
+    <DapAn_A>Đông Dương cộng sản đảng  </DapAn_A>
+    <DapAn_B>An Nam cộng sản đảng  </DapAn_B>
+    <DapAn_C>Hội Việt Nam Cách mạng Thanh niên</DapAn_C>
+    <DapAn_D>Đông Dương cộng sản liên đoàn  </DapAn_D>
+    <DapAn>D</DapAn>
+  </Question>
+  <Question>
+    <Id>49</Id>
+    <Id_DeThi>4</Id_DeThi>
+    <CauHoi>Đâu không phải là nội dung Hiệp định Sơ bộ ngày 6-3-1946?</CauHoi>
+    <Url_img />
+    <DapAn_A>Pháp công nhận Việt Nam là một quốc gia tự do</DapAn_A>
+    <DapAn_B>Pháp công nhận Việt Nam là một quốc gia độc lập</DapAn_B>
+    <DapAn_C>Chính phủ Việt Nam Dân chủ Cộng hòa thỏa thuận về việc để quân Pháp </DapAn_C>
+    <DapAn_D>Hai bên ngừng mọi cuộc xung đột ở phía Nam</DapAn_D>
+    <DapAn>A</DapAn>
+  </Question>
+  <Question>
+    <Id>50</Id>
+    <Id_DeThi>4</Id_DeThi>
+    <CauHoi>Kế hoạch Nava được đề ra và thực hiện trong bối cảnh quân Pháp đang ở trong tình thế như thế nào?</CauHoi>
+    <Url_img />
+    <DapAn_A>Nắm được quyền chủ động trên chiến trường  </DapAn_A>
+    <DapAn_B>Giữ thế cầm cự trên chiến trường  </DapAn_B>
+    <DapAn_C>Liên tục phản công nhưng đều thất bại</DapAn_C>
+    <DapAn_D>Lâm vào thế bị động, phòng ngự  </DapAn_D>
+    <DapAn>B</DapAn>
+  </Question>
+  <Question>
+    <Id>51</Id>
+    <Id_DeThi>4</Id_DeThi>
+    <CauHoi>Sự kiện nào đánh dấu chấm dứt vai trò lịch sử của Việt Nam Quốc dân Đảng </CauHoi>
+    <Url_img />
+    <DapAn_A>Cuộc ám sát trùm mộ phu người Pháp (1929)  </DapAn_A>
+    <DapAn_B>Sự thất bại của cuộc khởi nghĩa Yên Bái (1930)  </DapAn_B>
+    <DapAn_C>Đảng cộng sản Việt Nam được thành lập</DapAn_C>
+    <DapAn_D>Sự xuất hiện của 3 tổ chức cộng sản ở Việt Nam (1929)  </DapAn_D>
+    <DapAn>D</DapAn>
+  </Question>
+  <Question>
+    <Id>52</Id>
+    <Id_DeThi>4</Id_DeThi>
+    <CauHoi>Hiệp định Giơnevơ (1954) đã công nhận các quyền dân tộc cơ bản của 3 nước Việt Nam, Lào, Campuchia bao gồm</CauHoi>
+    <Url_img />
+    <DapAn_A>Độc lập, chủ quyền, thống nhất và toàn vẹn lãnh thổ  </DapAn_A>
+    <DapAn_B>Độc lập, tự do, thống nhất và toàn vẹn lãnh thổ  </DapAn_B>
+    <DapAn_C>Độc lập, chủ quyền, tự do và toàn vẹn lãnh thổ  </DapAn_C>
+    <DapAn_D>Độc lập, chủ quyền và toàn vẹn lãnh thổ</DapAn_D>
+    <DapAn>D</DapAn>
+  </Question>
+  <Question>
+    <Id>53</Id>
+    <Id_DeThi>4</Id_DeThi>
+    <CauHoi>Đâu không phải là luận điểm để chứng minh cho sự việc: Nhật đảo chính Pháp</CauHoi>
+    <Url_img />
+    <DapAn_A>Tầng lớp trung gian hoang mang</DapAn_A>
+    <DapAn_B>Quân Nhật đã gục ngã</DapAn_B>
+    <DapAn_C>Quần chúng cách mạng muốn hành động</DapAn_C>
+    <DapAn_D>Chính quyền Pháp đã tan rã, chính quyền Nhật chưa ổn định</DapAn_D>
+    <DapAn>A</DapAn>
+  </Question>
+  <Question>
+    <Id>54</Id>
+    <Id_DeThi>4</Id_DeThi>
+    <CauHoi>Căn cứ địa cách mạng là nơi cần có những điều kiện thuận lợi, trong đó “nhân hòa” là yếu tố quan trọng nhất.</CauHoi>
+    <Url_img />
+    <DapAn_A>Mọi người đều tham gia Việt Minh  </DapAn_A>
+    <DapAn_B>Có lực lượng du kích phát triển sớm  </DapAn_B>
+    <DapAn_C>Sớm hình thành các Hội Cứu quốc  </DapAn_C>
+    <DapAn_D>Có phong trào quần chúng tốt từ trước</DapAn_D>
+    <DapAn>B</DapAn>
+  </Question>
+  <Question>
+    <Id>55</Id>
+    <Id_DeThi>4</Id_DeThi>
+    <CauHoi>Chính quyền cách mạng đã thực hiện các biện pháp cấp thời nào để giải quyết nạn đói?</CauHoi>
+    <Url_img />
+    <DapAn_A>Phát động phong trào tăng gia sản xuất.  </DapAn_A>
+    <DapAn_B>Chia ruộng đất công theo nguyên tắc công bằng dân chủ.  </DapAn_B>
+    <DapAn_C>Giúp dân khôi phục, xây dựng lại hộ thống đê diều.  </DapAn_C>
+    <DapAn_D>Điều tiết thóc gạo giữa các địa phương.</DapAn_D>
+    <DapAn>D</DapAn>
+  </Question>
+  <Question>
+    <Id>56</Id>
+    <Id_DeThi>4</Id_DeThi>
+    <CauHoi>Quyền dân tộc cơ bản của nhân dân Việt Nam lần đầu tiên được ghi nhận trong văn bản pháp lý quốc tế nào?</CauHoi>
+    <Url_img />
+    <DapAn_A>Hiệp định Giơnevơ 1954</DapAn_A>
+    <DapAn_B>Hiệp định Ianta 1945</DapAn_B>
+    <DapAn_C>Hiệp định Sơ bộ 1946</DapAn_C>
+    <DapAn_D>Hiệp định Paris năm 1973</DapAn_D>
+    <DapAn>C</DapAn>
+  </Question>
+  <Question>
+    <Id>57</Id>
+    <Id_DeThi>4</Id_DeThi>
+    <CauHoi>Hội nghị nào đã đặt nền tảng cho sự ra đời của tổ chức Liên hợp quốc</CauHoi>
+    <Url_img />
+    <DapAn_A>Hội nghị Ianta</DapAn_A>
+    <DapAn_B>Hội nghị Pốtxđam</DapAn_B>
+    <DapAn_C>Hội nghị Xan Phranxico</DapAn_C>
+    <DapAn_D>Hội nghị Pari</DapAn_D>
+    <DapAn>A</DapAn>
+  </Question>
+  <Question>
+    <Id>58</Id>
+    <Id_DeThi>4</Id_DeThi>
+    <CauHoi>Năm 1949, Khoa học - kĩ thuật Liên Xô có bước phát triển nhanh chóng được đánh dấu bằng sự kiện nào?</CauHoi>
+    <Url_img />
+    <DapAn_A>Liên Xô phóng thành công vệ tinh nhân tạo  </DapAn_A>
+    <DapAn_B>Liên Xô đưa người bay vào vũ trụ  </DapAn_B>
+    <DapAn_C>Liên Xô chế tạo thành công bom nguyên tử  </DapAn_C>
+    <DapAn_D>Liên Xô phóng thành công tàu phương Đông</DapAn_D>
+    <DapAn>D</DapAn>
+  </Question>
+  <Question>
+    <Id>59</Id>
+    <Id_DeThi>4</Id_DeThi>
+    <CauHoi>“Nước Việt Nam có quyền hưởng tự do và độc lập, và sự thật đã trở thành một nước tự do.</CauHoi>
+    <Url_img />
+    <DapAn_A>Lời kêu gọi toàn quốc kháng chiến.  </DapAn_A>
+    <DapAn_B>Kháng chiến nhất định thắng lợi.  </DapAn_B>
+    <DapAn_C>Đường Kách mệnh.</DapAn_C>
+    <DapAn_D>Tuyên ngôn độc lập.  </DapAn_D>
+    <DapAn>D</DapAn>
+  </Question>
+  <Question>
+    <Id>60</Id>
+    <Id_DeThi>4</Id_DeThi>
+    <CauHoi>Anh (chị) hiểu thế nào là Chiến tranh lạnh?</CauHoi>
+    <Url_img />
+    <DapAn_A>Là cuộc chạy đua quân sự giữa Mĩ và Liên Xô sau chiến tranh thế giới thứ hai</DapAn_A>
+    <DapAn_B>Là cuộc chiến tranh dùng sức mạnh kinh tế để de dọa đối phương giữa Mĩ và Liên Xô  </DapAn_B>
+    <DapAn_C>Là cuộc chiến tranh dùng sức mạnh về kinh tế</DapAn_C>
+    <DapAn_D>Là cuộc chiến tranh giữa Mĩ và Liên Xô</DapAn_D>
+    <DapAn>D</DapAn>
+  </Question>
+  <Question>
+    <Id>61</Id>
+    <Id_DeThi>4</Id_DeThi>
+    <CauHoi>Bước sang thế kỉ XXI, xu thế chủ đạo trong quan hệ quốc tế là</CauHoi>
+    <Url_img />
+    <DapAn_A>Tăng cường liên kết khu vực để tăng cường tiềm lực kinh tế, quân sự.</DapAn_A>
+    <DapAn_B>Hòa bình, hợp tác và phát triển.  </DapAn_B>
+    <DapAn_C>Cạnh tranh khốc liệt để tồn tại.  </DapAn_C>
+    <DapAn_D>Cùng tồn tại trong hòa bình, các bên cùng có lợi</DapAn_D>
+    <DapAn>B</DapAn>
+  </Question>
+  <Question>
+    <Id>62</Id>
+    <Id_DeThi>4</Id_DeThi>
+    <CauHoi>Hội nghị Ianta được triệu tập vào thời điểm nào của cuộc Chiến tranh thế giới thứ hai (1939 – 1945)?</CauHoi>
+    <Url_img />
+    <DapAn_A>Chiến tranh thế giới thứ hai bùng nổ</DapAn_A>
+    <DapAn_B>Chiến tranh thế giới thứ hai bước vào giai đoạn ác liệt</DapAn_B>
+    <DapAn_C>Chiến tranh thế giới thứ hai bước vào giai đoạn kết thúc.</DapAn_C>
+    <DapAn_D> Chiến tranh thế giới thứ hai đã kết thúc</DapAn_D>
+    <DapAn>A</DapAn>
+  </Question>
+  <Question>
+    <Id>63</Id>
+    <Id_DeThi>4</Id_DeThi>
+    <CauHoi>Nguyên nhân khách quan nào đưa tới thắng lợi của cách mạng tháng Tám năm 1945 ở Việt Nam?</CauHoi>
+    <Url_img />
+    <DapAn_A>Nhân dân Việt Nam có truyền thống yêu nước</DapAn_A>
+    <DapAn_B>Sự lãnh đạo tài tình của Đảng cộng sản Đông Dương  </DapAn_B>
+    <DapAn_C>Sự chuẩn bị chu đáo trong suốt 15 năm của Đảng</DapAn_C>
+    <DapAn_D>Thắng lợi của quân Đồng minh trong cuộc chiến tranh chống phát xít</DapAn_D>
+    <DapAn>C</DapAn>
+  </Question>
+  <Question>
+    <Id>64</Id>
+    <Id_DeThi>4</Id_DeThi>
+    <CauHoi>Cuộc chiến đấu nào của quân nhân Việt Nam đã tạo điều kiện cho cả nước đi vào cuộc kháng chiến lâu dài?</CauHoi>
+    <Url_img />
+    <DapAn_A>Cuộc chiến đấu ở các đô thị phía Bắc vĩ tuyến 16  </DapAn_A>
+    <DapAn_B>Chiến dịch Biên giới thu- đông  </DapAn_B>
+    <DapAn_C>Chiến dịch Việt Bắc thu- đông  </DapAn_C>
+    <DapAn_D>Chiến dịch trung du và đồng bằng Bắc Bộ</DapAn_D>
+    <DapAn>D</DapAn>
+  </Question>
+  <Question>
+    <Id>65</Id>
+    <Id_DeThi>0</Id_DeThi>
+    <CauHoi>Cho hàm số y=2018x−2 có đồ thị (H). Số đường tiệm cận của (H) là:</CauHoi>
+    <Url_img />
+    <DapAn_A> 0</DapAn_A>
+    <DapAn_B> 1</DapAn_B>
+    <DapAn_C>2</DapAn_C>
+    <DapAn_D>3</DapAn_D>
+    <DapAn>D</DapAn>
+  </Question>
+  <Question>
+    <Id>66</Id>
+    <Id_DeThi>0</Id_DeThi>
+    <CauHoi>Hàm số y=−x4−2x2+3 nghịch biến trên:</CauHoi>
+    <Url_img />
+    <DapAn_A> (−∞;−1) và (0;1)</DapAn_A>
+    <DapAn_B> (0;+∞)</DapAn_B>
+    <DapAn_C> f(1)=5      </DapAn_C>
+    <DapAn_D>232</DapAn_D>
+    <DapAn>A</DapAn>
+  </Question>
+  <Question>
+    <Id>67</Id>
+    <Id_DeThi>3</Id_DeThi>
+    <CauHoi>số lớn nhất 2,34,54,1232,323,23,12</CauHoi>
+    <Url_img />
+    <DapAn_A>323</DapAn_A>
+    <DapAn_B>1232</DapAn_B>
+    <DapAn_C>2</DapAn_C>
+    <DapAn_D>12</DapAn_D>
+    <DapAn>B</DapAn>
+  </Question>
+  <Question>
+    <Id>68</Id>
+    <Id_DeThi>3</Id_DeThi>
+    <CauHoi>11+12 = ?</CauHoi>
+    <Url_img />
+    <DapAn_A>23</DapAn_A>
+    <DapAn_B>11</DapAn_B>
+    <DapAn_C>2</DapAn_C>
+    <DapAn_D>4</DapAn_D>
+    <DapAn>A</DapAn>
+  </Question>
+  <Question>
+    <Id>69</Id>
+    <Id_DeThi>3</Id_DeThi>
+    <CauHoi>1+1 = ?</CauHoi>
+    <Url_img />
+    <DapAn_A>2</DapAn_A>
+    <DapAn_B>4</DapAn_B>
+    <DapAn_C>3</DapAn_C>
+    <DapAn_D>0</DapAn_D>
+    <DapAn>A</DapAn>
+  </Question>
+  <Question>
+    <Id>70</Id>
+    <Id_DeThi>5</Id_DeThi>
+    <CauHoi>Cho hàm số y=f(x) xác định trên R∖{−1;1}, liên tục trên mỗi khoảng xác định và có bảng biến thiên</CauHoi>
+    <Url_img />
+    <DapAn_A>m⩽−2 hoặc m⩾1</DapAn_A>
+    <DapAn_B>m⩽−2 hoặc m⩾1</DapAn_B>
+    <DapAn_C>m⩽−2 hoặc m⩾1</DapAn_C>
+    <DapAn_D> f(1)=5      </DapAn_D>
+    <DapAn>A</DapAn>
+  </Question>
+</ArrayOfQuestion>

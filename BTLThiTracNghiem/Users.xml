@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<ArrayOfUser xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <User>
+    <Id>0</Id>
+    <Email>admin@gmail.com</Email>
+    <HoTen>Nguyễn Quang Thắng</HoTen>
+    <MatKhau>12345</MatKhau>
+  </User>
+  <User>
+    <Id>1</Id>
+    <Email>thang@gmail.com</Email>
+    <HoTen>thắng</HoTen>
+    <MatKhau>12345</MatKhau>
+  </User>
+  <User>
+    <Id>2</Id>
+    <Email>quangthang@gmail.com</Email>
+    <HoTen>Nguyễn Quang Thắng</HoTen>
+    <MatKhau>12345</MatKhau>
+  </User>
+  <User>
+    <Id>3</Id>
+    <Email>danbui@gmail.com</Email>
+    <HoTen>Bùi Thành Đan</HoTen>
+    <MatKhau>123456</MatKhau>
+  </User>
+  <User>
+    <Id>4</Id>
+    <Email>thao@gmail.com</Email>
+    <HoTen>Nguyễn Thu Thảo</HoTen>
+    <MatKhau>12345</MatKhau>
+  </User>
+</ArrayOfUser>

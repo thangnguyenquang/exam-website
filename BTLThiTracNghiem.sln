@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTLThiTracNghiem", "BTLThiTracNghiem\BTLThiTracNghiem.csproj", "{DDA5252D-7B60-4880-8887-CCDFB5E59897}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDA5252D-7B60-4880-8887-CCDFB5E59897}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDA5252D-7B60-4880-8887-CCDFB5E59897}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDA5252D-7B60-4880-8887-CCDFB5E59897}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDA5252D-7B60-4880-8887-CCDFB5E59897}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90A549DA-4BF6-4CD2-928F-3DE7A60B3220}
+	EndGlobalSection
+EndGlobal

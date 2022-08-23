@@ -1,0 +1,289 @@
+<?xml version="1.0"?>
+<ArrayOfResult xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Result>
+    <Id>0</Id>
+    <HoTen>thắng</HoTen>
+    <ThoiGianBatDau>7/13/2022 4:16:38 PM</ThoiGianBatDau>
+    <ThoiGianKetThuc>7/13/2022 4:16:50 PM</ThoiGianKetThuc>
+    <ThoiGianLamBai>0:0:12</ThoiGianLamBai>
+    <DiemSo>6</DiemSo>
+    <IdUser>1</IdUser>
+    <TieuDeDeThi>Đề kiểm tra 15 phút chương 3: Nguyên hàm - Đề số 2</TieuDeDeThi>
+    <IdDeThi>1</IdDeThi>
+  </Result>
+  <Result>
+    <Id>1</Id>
+    <HoTen>thắng</HoTen>
+    <ThoiGianBatDau>7/13/2022 10:03:16 PM</ThoiGianBatDau>
+    <ThoiGianKetThuc>7/13/2022 10:04:36 PM</ThoiGianKetThuc>
+    <ThoiGianLamBai>0:1:20</ThoiGianLamBai>
+    <DiemSo>2</DiemSo>
+    <IdUser>1</IdUser>
+    <TieuDeDeThi>Đề kiểm tra 15 phút chương 1: Hàm số - Đề số 1 môn Toán học Lớp 12</TieuDeDeThi>
+    <IdDeThi>0</IdDeThi>
+  </Result>
+  <Result>
+    <Id>2</Id>
+    <HoTen>Nguyễn Quang Thắng</HoTen>
+    <ThoiGianBatDau>7/13/2022 10:43:22 PM</ThoiGianBatDau>
+    <ThoiGianKetThuc>7/13/2022 10:43:36 PM</ThoiGianKetThuc>
+    <ThoiGianLamBai>0:0:14</ThoiGianLamBai>
+    <DiemSo>6</DiemSo>
+    <IdUser>2</IdUser>
+    <TieuDeDeThi>Đề kiểm tra 15 phút chương 3: Nguyên hàm - Đề số 2</TieuDeDeThi>
+    <IdDeThi>1</IdDeThi>
+  </Result>
+  <Result>
+    <Id>3</Id>
+    <HoTen>thắng</HoTen>
+    <ThoiGianBatDau>7/14/2022 3:15:38 PM</ThoiGianBatDau>
+    <ThoiGianKetThuc>7/14/2022 3:17:45 PM</ThoiGianKetThuc>
+    <ThoiGianLamBai>0:2:7</ThoiGianLamBai>
+    <DiemSo>4</DiemSo>
+    <IdUser>1</IdUser>
+    <TieuDeDeThi>Đề kiểm tra 1 tiết chương 1: Dao động cơ môn Vật lý Lớp 12</TieuDeDeThi>
+    <IdDeThi>2</IdDeThi>
+  </Result>
+  <Result>
+    <Id>4</Id>
+    <HoTen>Bùi Thành Đan</HoTen>
+    <ThoiGianBatDau>7/14/2022 3:33:30 PM</ThoiGianBatDau>
+    <ThoiGianKetThuc>7/14/2022 3:34:04 PM</ThoiGianKetThuc>
+    <ThoiGianLamBai>0:0:34</ThoiGianLamBai>
+    <DiemSo>8</DiemSo>
+    <IdUser>3</IdUser>
+    <TieuDeDeThi>Đề kiểm tra 10 phút Toán</TieuDeDeThi>
+    <IdDeThi>3</IdDeThi>
+  </Result>
+  <Result>
+    <Id>5</Id>
+    <HoTen>thắng</HoTen>
+    <ThoiGianBatDau>7/16/2022 5:08:13 PM</ThoiGianBatDau>
+    <ThoiGianKetThuc>7/16/2022 5:09:14 PM</ThoiGianKetThuc>
+    <ThoiGianLamBai>0:1:1</ThoiGianLamBai>
+    <DiemSo>2</DiemSo>
+    <IdUser>1</IdUser>
+    <TieuDeDeThi>Đề kiểm tra 15 phút chương 3: Nguyên hàm - Đề số 2</TieuDeDeThi>
+    <IdDeThi>1</IdDeThi>
+  </Result>
+  <Result>
+    <Id>6</Id>
+    <HoTen>thắng</HoTen>
+    <ThoiGianBatDau>7/16/2022 5:19:30 PM</ThoiGianBatDau>
+    <ThoiGianKetThuc>7/16/2022 5:20:30 PM</ThoiGianKetThuc>
+    <ThoiGianLamBai>0:1:0</ThoiGianLamBai>
+    <DiemSo>0</DiemSo>
+    <IdUser>1</IdUser>
+    <TieuDeDeThi>Đề kiểm tra 15 phút chương 3: Nguyên hàm - Đề số 2</TieuDeDeThi>
+    <IdDeThi>1</IdDeThi>
+  </Result>
+  <Result>
+    <Id>7</Id>
+    <HoTen>thắng</HoTen>
+    <ThoiGianBatDau>7/16/2022 5:35:55 PM</ThoiGianBatDau>
+    <ThoiGianKetThuc>7/16/2022 5:37:02 PM</ThoiGianKetThuc>
+    <ThoiGianLamBai>0:1:7</ThoiGianLamBai>
+    <DiemSo>2</DiemSo>
+    <IdUser>1</IdUser>
+    <TieuDeDeThi>Đề kiểm tra 15 phút chương 1: Hàm số - Đề số 1 môn Toán học Lớp 12</TieuDeDeThi>
+    <IdDeThi>0</IdDeThi>
+  </Result>
+  <Result>
+    <Id>8</Id>
+    <HoTen>Bùi Thành Đan</HoTen>
+    <ThoiGianBatDau>7/16/2022 6:11:41 PM</ThoiGianBatDau>
+    <ThoiGianKetThuc>7/16/2022 6:12:09 PM</ThoiGianKetThuc>
+    <ThoiGianLamBai>0:0:28</ThoiGianLamBai>
+    <DiemSo>4</DiemSo>
+    <IdUser>3</IdUser>
+    <TieuDeDeThi>Đề kiểm tra 15 phút chương 3: Nguyên hàm - Đề số 2</TieuDeDeThi>
+    <IdDeThi>1</IdDeThi>
+  </Result>
+  <Result>
+    <Id>10</Id>
+    <HoTen>thắng</HoTen>
+    <ThoiGianBatDau>7/21/2022 11:02:51 AM</ThoiGianBatDau>
+    <ThoiGianKetThuc>7/21/2022 11:02:56 AM</ThoiGianKetThuc>
+    <ThoiGianLamBai>0:0:5</ThoiGianLamBai>
+    <DiemSo>0</DiemSo>
+    <IdUser>1</IdUser>
+    <TieuDeDeThi>Đề kiểm tra 15 phút chương 3: Nguyên hàm - Đề số 2</TieuDeDeThi>
+    <IdDeThi>1</IdDeThi>
+  </Result>
+  <Result>
+    <Id>11</Id>
+    <HoTen>thắng</HoTen>
+    <ThoiGianBatDau>7/25/2022 2:08:23 PM</ThoiGianBatDau>
+    <ThoiGianKetThuc>7/25/2022 2:08:34 PM</ThoiGianKetThuc>
+    <ThoiGianLamBai>0:0:11</ThoiGianLamBai>
+    <DiemSo>2</DiemSo>
+    <IdUser>1</IdUser>
+    <TieuDeDeThi>Đề kiểm tra 10 phút Toán</TieuDeDeThi>
+    <IdDeThi>3</IdDeThi>
+  </Result>
+  <Result>
+    <Id>12</Id>
+    <HoTen>thắng</HoTen>
+    <ThoiGianBatDau>7/25/2022 2:11:04 PM</ThoiGianBatDau>
+    <ThoiGianKetThuc>7/25/2022 2:11:07 PM</ThoiGianKetThuc>
+    <ThoiGianLamBai>0:0:3</ThoiGianLamBai>
+    <DiemSo>0</DiemSo>
+    <IdUser>1</IdUser>
+    <TieuDeDeThi>Đề kiểm tra 10 phút Toán</TieuDeDeThi>
+    <IdDeThi>3</IdDeThi>
+  </Result>
+  <Result>
+    <Id>13</Id>
+    <HoTen>Bùi Thành Đan</HoTen>
+    <ThoiGianBatDau>7/20/2022 5:23:44 PM</ThoiGianBatDau>
+    <ThoiGianKetThuc>7/20/2022 5:24:44 PM</ThoiGianKetThuc>
+    <ThoiGianLamBai>0:1:0</ThoiGianLamBai>
+    <DiemSo>6</DiemSo>
+    <IdUser>3</IdUser>
+    <TieuDeDeThi>Đề kiểm tra 15 phút chương 3: Nguyên hàm - Đề số 2</TieuDeDeThi>
+    <IdDeThi>1</IdDeThi>
+  </Result>
+  <Result>
+    <Id>14</Id>
+    <HoTen>thắng</HoTen>
+    <ThoiGianBatDau>7/25/2022 3:31:31 PM</ThoiGianBatDau>
+    <ThoiGianKetThuc>7/25/2022 3:31:44 PM</ThoiGianKetThuc>
+    <ThoiGianLamBai>0:0:13</ThoiGianLamBai>
+    <DiemSo>6</DiemSo>
+    <IdUser>1</IdUser>
+    <TieuDeDeThi>Đề kiểm tra 10 phút Toán</TieuDeDeThi>
+    <IdDeThi>3</IdDeThi>
+  </Result>
+  <Result>
+    <Id>15</Id>
+    <HoTen>thắng</HoTen>
+    <ThoiGianBatDau>7/25/2022 3:33:59 PM</ThoiGianBatDau>
+    <ThoiGianKetThuc>7/25/2022 3:34:13 PM</ThoiGianKetThuc>
+    <ThoiGianLamBai>0:0:14</ThoiGianLamBai>
+    <DiemSo>0</DiemSo>
+    <IdUser>1</IdUser>
+    <TieuDeDeThi>Đề kiểm tra 10 phút Toán</TieuDeDeThi>
+    <IdDeThi>3</IdDeThi>
+  </Result>
+  <Result>
+    <Id>16</Id>
+    <HoTen>thắng</HoTen>
+    <ThoiGianBatDau>7/25/2022 3:34:28 PM</ThoiGianBatDau>
+    <ThoiGianKetThuc>7/25/2022 3:34:40 PM</ThoiGianKetThuc>
+    <ThoiGianLamBai>0:0:12</ThoiGianLamBai>
+    <DiemSo>6</DiemSo>
+    <IdUser>1</IdUser>
+    <TieuDeDeThi>Đề kiểm tra 15 phút chương 3: Nguyên hàm - Đề số 2</TieuDeDeThi>
+    <IdDeThi>1</IdDeThi>
+  </Result>
+  <Result>
+    <Id>17</Id>
+    <HoTen>thắng</HoTen>
+    <ThoiGianBatDau>7/25/2022 4:55:55 PM</ThoiGianBatDau>
+    <ThoiGianKetThuc>7/25/2022 4:56:04 PM</ThoiGianKetThuc>
+    <ThoiGianLamBai>0:0:9</ThoiGianLamBai>
+    <DiemSo>0</DiemSo>
+    <IdUser>1</IdUser>
+    <TieuDeDeThi>Đề kiểm tra 10 phút Toán</TieuDeDeThi>
+    <IdDeThi>3</IdDeThi>
+  </Result>
+  <Result>
+    <Id>18</Id>
+    <HoTen>thắng</HoTen>
+    <ThoiGianBatDau>7/25/2022 5:04:08 PM</ThoiGianBatDau>
+    <ThoiGianKetThuc>7/25/2022 5:04:25 PM</ThoiGianKetThuc>
+    <ThoiGianLamBai>0:0:17</ThoiGianLamBai>
+    <DiemSo>1</DiemSo>
+    <IdUser>1</IdUser>
+    <TieuDeDeThi>Đề kiểm tra 15 phút chương 1: Hàm số - Đề số 1 môn Toán học Lớp 12</TieuDeDeThi>
+    <IdDeThi>0</IdDeThi>
+  </Result>
+  <Result>
+    <Id>19</Id>
+    <HoTen>thắng</HoTen>
+    <ThoiGianBatDau>7/25/2022 5:06:55 PM</ThoiGianBatDau>
+    <ThoiGianKetThuc>7/25/2022 5:07:15 PM</ThoiGianKetThuc>
+    <ThoiGianLamBai>0:0:20</ThoiGianLamBai>
+    <DiemSo>1</DiemSo>
+    <IdUser>1</IdUser>
+    <TieuDeDeThi>Đề kiểm tra 15 phút chương 1: Hàm số - Đề số 1 môn Toán học Lớp 12</TieuDeDeThi>
+    <IdDeThi>0</IdDeThi>
+  </Result>
+  <Result>
+    <Id>20</Id>
+    <HoTen>thắng</HoTen>
+    <ThoiGianBatDau>7/25/2022 5:07:57 PM</ThoiGianBatDau>
+    <ThoiGianKetThuc>7/25/2022 5:08:09 PM</ThoiGianKetThuc>
+    <ThoiGianLamBai>0:0:12</ThoiGianLamBai>
+    <DiemSo>1</DiemSo>
+    <IdUser>1</IdUser>
+    <TieuDeDeThi>Đề kiểm tra 15 phút chương 1: Hàm số - Đề số 1 môn Toán học Lớp 12</TieuDeDeThi>
+    <IdDeThi>0</IdDeThi>
+  </Result>
+  <Result>
+    <Id>21</Id>
+    <HoTen>thắng</HoTen>
+    <ThoiGianBatDau>7/28/2022 9:31:55 PM</ThoiGianBatDau>
+    <ThoiGianKetThuc>7/28/2022 9:32:02 PM</ThoiGianKetThuc>
+    <ThoiGianLamBai>0:0:7</ThoiGianLamBai>
+    <DiemSo>2</DiemSo>
+    <IdUser>1</IdUser>
+    <TieuDeDeThi>Đề kiểm tra 10 phút Toán</TieuDeDeThi>
+    <IdDeThi>3</IdDeThi>
+  </Result>
+  <Result>
+    <Id>22</Id>
+    <HoTen>thắng</HoTen>
+    <ThoiGianBatDau>7/28/2022 9:32:11 PM</ThoiGianBatDau>
+    <ThoiGianKetThuc>7/28/2022 9:32:17 PM</ThoiGianKetThuc>
+    <ThoiGianLamBai>0:0:6</ThoiGianLamBai>
+    <DiemSo>4</DiemSo>
+    <IdUser>1</IdUser>
+    <TieuDeDeThi>Đề kiểm tra 10 phút Toán</TieuDeDeThi>
+    <IdDeThi>3</IdDeThi>
+  </Result>
+  <Result>
+    <Id>23</Id>
+    <HoTen>thắng</HoTen>
+    <ThoiGianBatDau>7/28/2022 9:49:40 PM</ThoiGianBatDau>
+    <ThoiGianKetThuc>7/28/2022 9:50:40 PM</ThoiGianKetThuc>
+    <ThoiGianLamBai>0:1:0</ThoiGianLamBai>
+    <DiemSo>2</DiemSo>
+    <IdUser>1</IdUser>
+    <TieuDeDeThi>Đề kiểm tra 15 phút chương 3: Nguyên hàm - Đề số 2</TieuDeDeThi>
+    <IdDeThi>1</IdDeThi>
+  </Result>
+  <Result>
+    <Id>24</Id>
+    <HoTen>thắng</HoTen>
+    <ThoiGianBatDau>7/29/2022 8:32:39 AM</ThoiGianBatDau>
+    <ThoiGianKetThuc>7/29/2022 8:32:50 AM</ThoiGianKetThuc>
+    <ThoiGianLamBai>0:0:11</ThoiGianLamBai>
+    <DiemSo>5</DiemSo>
+    <IdUser>1</IdUser>
+    <TieuDeDeThi>Đề kiểm tra 15 phút chương 1: Hàm số - Đề số 1 môn Toán học Lớp 12</TieuDeDeThi>
+    <IdDeThi>0</IdDeThi>
+  </Result>
+  <Result>
+    <Id>25</Id>
+    <HoTen>thắng</HoTen>
+    <ThoiGianBatDau>7/29/2022 8:50:54 AM</ThoiGianBatDau>
+    <ThoiGianKetThuc>7/29/2022 8:51:03 AM</ThoiGianKetThuc>
+    <ThoiGianLamBai>0:0:9</ThoiGianLamBai>
+    <DiemSo>0</DiemSo>
+    <IdUser>1</IdUser>
+    <TieuDeDeThi>Đề kiểm tra 15 phút chương 1: Hàm số - Đề số 1 môn Toán học Lớp 12</TieuDeDeThi>
+    <IdDeThi>0</IdDeThi>
+  </Result>
+  <Result>
+    <Id>26</Id>
+    <HoTen>Nguyễn Quang Thắng</HoTen>
+    <ThoiGianBatDau>7/29/2022 9:18:41 AM</ThoiGianBatDau>
+    <ThoiGianKetThuc>7/29/2022 9:18:51 AM</ThoiGianKetThuc>
+    <ThoiGianLamBai>0:0:10</ThoiGianLamBai>
+    <DiemSo>0</DiemSo>
+    <IdUser>0</IdUser>
+    <TieuDeDeThi>Đề kiểm tra học kì 1 - Đề số 1 môn Lịch sử Lớp 12</TieuDeDeThi>
+    <IdDeThi>4</IdDeThi>
+  </Result>
+</ArrayOfResult>

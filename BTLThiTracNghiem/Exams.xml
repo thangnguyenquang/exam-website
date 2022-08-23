@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<ArrayOfExam xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Exam>
+    <Id>0</Id>
+    <TieuDe>Đề kiểm tra 15 phút chương 1: Hàm số - Đề số 1 môn Toán học Lớp 12</TieuDe>
+    <NgayTao>7/9/2022 5:25:32 PM</NgayTao>
+    <SoLuongCauHoi>10</SoLuongCauHoi>
+    <ThoiGianLamBai>15</ThoiGianLamBai>
+    <LoaiBaiThi>Đề kiểm tra 15 phút</LoaiBaiThi>
+    <MaCaThi />
+  </Exam>
+  <Exam>
+    <Id>1</Id>
+    <TieuDe>Đề kiểm tra 15 phút chương 3: Nguyên hàm - Đề số 2</TieuDe>
+    <NgayTao>7/11/2022 5:34:10 PM</NgayTao>
+    <SoLuongCauHoi>5</SoLuongCauHoi>
+    <ThoiGianLamBai>1</ThoiGianLamBai>
+    <LoaiBaiThi>Đề kiểm tra 15 phút</LoaiBaiThi>
+    <MaCaThi />
+  </Exam>
+  <Exam>
+    <Id>2</Id>
+    <TieuDe>Đề kiểm tra 1 tiết chương 1: Dao động cơ môn Vật lý Lớp 12</TieuDe>
+    <NgayTao>7/14/2022 8:05:10 AM</NgayTao>
+    <SoLuongCauHoi>20</SoLuongCauHoi>
+    <ThoiGianLamBai>45</ThoiGianLamBai>
+    <LoaiBaiThi>Đề kiểm tra 45 phút</LoaiBaiThi>
+    <MaCaThi>dvl123</MaCaThi>
+  </Exam>
+  <Exam>
+    <Id>3</Id>
+    <TieuDe>Đề kiểm tra 10 phút Toán -  Đề số 1 môn Toán Lớp 1</TieuDe>
+    <NgayTao>7/14/2022 3:28:06 PM</NgayTao>
+    <SoLuongCauHoi>5</SoLuongCauHoi>
+    <ThoiGianLamBai>10</ThoiGianLamBai>
+    <LoaiBaiThi>Đề kiểm tra 10 phút</LoaiBaiThi>
+    <MaCaThi />
+  </Exam>
+  <Exam>
+    <Id>4</Id>
+    <TieuDe>Đề kiểm tra học kì 1 - Đề số 1 môn Lịch sử Lớp 12</TieuDe>
+    <NgayTao>7/17/2022 4:43:36 PM</NgayTao>
+    <SoLuongCauHoi>20</SoLuongCauHoi>
+    <ThoiGianLamBai>45</ThoiGianLamBai>
+    <LoaiBaiThi>Đề kiểm tra học kỳ</LoaiBaiThi>
+    <MaCaThi>abs0291</MaCaThi>
+  </Exam>
+  <Exam>
+    <Id>5</Id>
+    <TieuDe>Đề kiểm tra 15 phút chương 3: Nguyên hàm -</TieuDe>
+    <NgayTao>7/29/2022 9:19:21 AM</NgayTao>
+    <SoLuongCauHoi>1</SoLuongCauHoi>
+    <ThoiGianLamBai>1</ThoiGianLamBai>
+    <LoaiBaiThi>Đề kiểm tra 15 phút</LoaiBaiThi>
+    <MaCaThi />
+  </Exam>
+</ArrayOfExam>
