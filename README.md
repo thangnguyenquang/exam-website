@@ -4,30 +4,36 @@ screenshots :
 
 Trang chủ
 
-![image](https://user-images.githubusercontent.com/88927961/186063127-7b788439-b9ea-4483-8826-5213652f1750.png)
+![demo0](https://user-images.githubusercontent.com/88927961/186102876-e0d870fb-d5e9-4798-a02f-25d133a0a62e.png)
+
+Chi tiết bài thi
+
+![demo9](https://user-images.githubusercontent.com/88927961/186104157-cd3320fe-661b-4aff-8e70-7f9240595854.png)
 
 Làm bài thi
 
-![image](https://user-images.githubusercontent.com/88927961/186063296-9d61cf7f-8284-4433-ab6d-aa862911bd25.png)
+![demo1](https://user-images.githubusercontent.com/88927961/186103066-d217fce1-f635-457f-a87d-1388b57625b0.png)
+
+![demo1 1](https://user-images.githubusercontent.com/88927961/186102988-d1482457-1809-4df6-9cae-7dc754fb93e5.png)
 
 Kết quả bài thi
 
-![image](https://user-images.githubusercontent.com/88927961/186063341-ae57540c-e8de-43d8-9d70-9967a0aebb12.png)
+![demo3](https://user-images.githubusercontent.com/88927961/186103222-bf40ef56-b27f-4e0e-9207-1d835070b328.png)
 
 Quản lý tài khoản
 
-![image](https://user-images.githubusercontent.com/88927961/186063375-49890470-3684-4ca5-8f6b-b2c0a8cb69de.png)
+![demo4](https://user-images.githubusercontent.com/88927961/186103265-54137a6f-867d-4d1b-b41f-50c211a48a4e.png)
  
  Quản lý bài thi
- 
- ![image](https://user-images.githubusercontent.com/88927961/186063399-9b826a2f-e486-4e08-afe5-4fe233a4853e.png)
 
-![image](https://user-images.githubusercontent.com/88927961/186063430-58f1a210-7e4d-42eb-a78e-3598797dd7db.png)
+![demo4](https://user-images.githubusercontent.com/88927961/186103425-a5918ed0-38c8-4f08-aa71-1d9f9a42f0aa.png)
 
- ![image](https://user-images.githubusercontent.com/88927961/186063450-70a6b2be-fdff-4cee-8f76-ce201900d4be.png)
+![demo6](https://user-images.githubusercontent.com/88927961/186103481-4b19d831-efa9-4832-868c-6c71121efaba.png)
+
+![demo6 1](https://user-images.githubusercontent.com/88927961/186103502-94382113-25e1-48d6-b369-bbb5f52365d7.png)
 
 Xem những người đã làm bài thi
 
-![image](https://user-images.githubusercontent.com/88927961/186063490-9f4a2c5f-6331-4631-aa5b-47047630130d.png)
+![demo8](https://user-images.githubusercontent.com/88927961/186103903-0330c70f-abcb-4703-88c6-2a42399046c8.png)
  
-![image](https://user-images.githubusercontent.com/88927961/186063531-9c375fd1-ccca-4d44-8641-7a76252073af.png)
+![demo81](https://user-images.githubusercontent.com/88927961/186103939-f9e2b718-4955-4e3b-8d7a-df09c2608a6b.png)
