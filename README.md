@@ -20,11 +20,11 @@ Kết quả bài thi
 
 ![demo3](https://user-images.githubusercontent.com/88927961/186103222-bf40ef56-b27f-4e0e-9207-1d835070b328.png)
 
-Quản lý tài khoản
+Quản lý tài khoản (Admin)
 
 ![demo4](https://user-images.githubusercontent.com/88927961/186103265-54137a6f-867d-4d1b-b41f-50c211a48a4e.png)
  
- Quản lý bài thi
+ Quản lý bài thi (Admin)
 
 ![demo4](https://user-images.githubusercontent.com/88927961/186103425-a5918ed0-38c8-4f08-aa71-1d9f9a42f0aa.png)
 
@@ -32,7 +32,7 @@ Quản lý tài khoản
 
 ![demo6 1](https://user-images.githubusercontent.com/88927961/186103502-94382113-25e1-48d6-b369-bbb5f52365d7.png)
 
-Xem những người đã làm bài thi
+Xem những người đã làm bài thi (Admin)
 
 ![demo8](https://user-images.githubusercontent.com/88927961/186103903-0330c70f-abcb-4703-88c6-2a42399046c8.png)
  
